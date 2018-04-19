@@ -9,10 +9,10 @@
 
 
 # Implement Method:  
-  ##############################################################
+  ##############################################################  
   The user input the URL with 3 pararmeters ( username , firstword , lastword ) to  
   get access to the wordladder.                                                    
-  ############################################################## 
+  ##############################################################  
   If the username hasn't been vertified, then "Please login first!" will be printed,   
   so the user has to go to "/Login" to login first, where username and password will  
   be input with 2 parameters ( username , password ), and vertification will be done.  
